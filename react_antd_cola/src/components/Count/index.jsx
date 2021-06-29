@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Select, Button } from 'antd'
-import '../../../1_react_加减/components/Count/node_modules/antd/dist/antd.css'
+import 'antd/dist/antd.css'
 import './index.css'
 
 export default class Count extends Component {
